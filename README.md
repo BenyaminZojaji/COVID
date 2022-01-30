@@ -1,5 +1,5 @@
 # COVID
-Analyzing COVID data.
+Analyzing COVID data with python.
 - The eight countries with the highest number of covid cases in the fourth month of 2020.
 > ![countries](https://user-images.githubusercontent.com/77120507/150640172-524a5918-50b6-449b-8301-a474365d9911.PNG)
 
